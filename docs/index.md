@@ -3,23 +3,16 @@
 layout: home
 
 hero:
-  name: "$FOGMOE Token"
-  text: "$FOGMOE Token"
-  tagline: My great project tagline
+  name: "FOGMOE Token"
+  text: "A unique Token on Solana"
+  tagline: Empowering the FOGMOE community
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Get Some $FOGMOE
       link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Contract Address
+    details: AdFiMA3G8cEAmQq4HZHVTsoJMYyCBGvbF9xsdrCP8Md2
 ---
 

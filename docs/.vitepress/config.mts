@@ -2,13 +2,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "$FOGMOE Token",
-  description: "$FOGMOE Token",
+  title: "FOGMOE Token",
+  description: "$FOGMOE is a Solana blockchain token.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
     ],
 
     sidebar: [
@@ -21,8 +20,8 @@ export default defineConfig({
       }
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    footer: {
+      copyright: 'Copyright © 2025 FOGMOE'
+    }
   }
 })
