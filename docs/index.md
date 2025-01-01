@@ -3,13 +3,15 @@
 layout: home
 
 hero:
+  image:
+    src: /FOGMOE.png
   name: "FOGMOE Token"
   text: "A unique Token on Solana"
   tagline: Empowering the FOGMOE community
   actions:
     - theme: brand
-      text: Get Some $FOGMOE
-      link: /markdown-examples
+      text: Get FOGMOE Token
+      link: /get-fogmoe-token
 
 features:
   - title: Contract Address
