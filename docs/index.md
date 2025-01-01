@@ -12,9 +12,8 @@ hero:
     - theme: brand
       text: Get FOGMOE Token
       link: /get-fogmoe-token
-
-features:
-  - title: Contract Address
-    details: AdFiMA3G8cEAmQq4HZHVTsoJMYyCBGvbF9xsdrCP8Md2
+    - theme: alt
+      text: View on Solscan
+      link: https://solscan.io/token/AdFiMA3G8cEAmQq4HZHVTsoJMYyCBGvbF9xsdrCP8Md2
 ---
 

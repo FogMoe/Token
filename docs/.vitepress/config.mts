@@ -2,6 +2,10 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  sitemap: {
+    hostname: 'https://token.fog.moe'
+  },
+  head: [['link', { rel: 'icon', href: '/icon.jpg' }]],
   title: "FOGMOE Token",
   description: "$FOGMOE is a Solana blockchain token.",
   themeConfig: {
