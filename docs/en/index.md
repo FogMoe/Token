@@ -5,13 +5,13 @@ layout: home
 hero:
   image:
     src: /FOGMOE.png
-  name: "FOGMOE Token"
+  name: "$FOGMOE"
   text: "A unique Token on Solana"
   tagline: Empowering the FOGMOE community
   actions:
     - theme: brand
-      text: Get FOGMOE Token
-      link: /get-fogmoe-token
+      text: Get Started
+      link: /docs/
     - theme: alt
       text: View on Solscan
       link: https://solscan.io/token/AdFiMA3G8cEAmQq4HZHVTsoJMYyCBGvbF9xsdrCP8Md2
