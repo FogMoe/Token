@@ -36,8 +36,8 @@ hero:
       <span class="stat-value">0.0/2.0 SOL</span>
     </div>
     <div class="stat-item">
-      <span class="stat-label">Distributed</span>
-      <span class="stat-value">0K/500K FOGMOE</span>
+      <span class="stat-label">Remaining</span>
+      <span class="stat-value">500K/500K FOGMOE</span>
     </div>
   </div>
 </div>
