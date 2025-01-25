@@ -13,7 +13,7 @@ hero:
       text: Get Started
       link: /docs/
     - theme: alt
-      text: View on Solscan
-      link: https://solscan.io/token/AdFiMA3G8cEAmQq4HZHVTsoJMYyCBGvbF9xsdrCP8Md2
+      text: Trade $FOGMOE
+      link: /docs/get-fogmoe-token/
 ---
 

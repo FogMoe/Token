@@ -28,6 +28,7 @@
 - For DAO operations and management.
 
 ## Token Mechanism
+This mechanism will not be activated until the market cap reaches a certain level.
 - **Minting and Burning:** Decided by DAO vote.  
 - **Minting:** New tokens only under specific conditions, subject to DAO approval.  
 - **Burning:** Token supply can be reduced; also requires DAO approval.
