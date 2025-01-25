@@ -31,6 +31,7 @@ export default defineConfig({
           {text: 'Get Started', link: '/docs/' },
           {text: 'How can I get FOGMOE Token?', link: '/docs/get-fogmoe-token' },
           {text: 'Tokenomics', link: '/docs/tokenomics' },
+          {text: 'DAO', link: '/docs/DAO' },
         ]
       }
     ],
