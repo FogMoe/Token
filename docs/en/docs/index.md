@@ -6,6 +6,9 @@ $FOGMOE is a token on the Solana blockchain, created by the FOGMOE team with the
 
 **Launch Date:** December 31, 2024
 
-**Contract Address:** AdFiMA3G8cEAmQq4HZHVTsoJMYyCBGvbF9xsdrCP8Md2
+**Contract Address:**
+```
+AdFiMA3G8cEAmQq4HZHVTsoJMYyCBGvbF9xsdrCP8Md2
+```
 
 [View on Solscan](https://solscan.io/token/AdFiMA3G8cEAmQq4HZHVTsoJMYyCBGvbF9xsdrCP8Md2)

@@ -8,6 +8,8 @@ The primary way to obtain FOGMOE Token is through participating in community act
 ### Buy
 Currently, FOGMOE Token cannot be purchased directly with fiat money.
 
+### [Direct Sale](/docs/early-fundraising.md)
+
 ## Stay Updated
 To catch the latest news on how to get FOGMOE Token, make sure to follow our social media accounts. We regularly share updates about upcoming airdrops, community activities, and any changes to the token's status.
 
