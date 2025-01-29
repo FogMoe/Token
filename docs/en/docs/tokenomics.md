@@ -1,34 +1,11 @@
 # $FOGMOE Tokenomics
 
-## Total Supply: 10,000,000 $FOGMOE
+## Total Supply: 1,000,000,000 $FOGMOE
 
-| Category            | Allocation | Purpose                                                                                 |
-|---------------------|-----------|-----------------------------------------------------------------------------------------|
-| Team                | 50%       | Incentivize the team and ensure long-term commitment (45% unlock, 5% for development).  |
-| Community Support   | 25%       | Fund airdrops, events, rewards, incentives, marketing, partnerships, and community initiatives. |
-| Initial Circulation | 15%       | Provide initial liquidity.                                                             |
-| Direct Sale         | 5%        | Early fundraising.                                                                     |
-| DAO Fund Management | 5%        | Dedicated to DAO operations and management.                                            |
+## Circulating Supply: 10,000,000 $FOGMOE
 
-**Team Holding:** 50%  
-- 45% unlocks gradually starting December 31, 2029.  
-- 5% for development and operations.  
-- No unlocked portion is sold before December 31, 2029.
+Currently, 10 million $FOGMOE tokens are in circulation.
 
-**Community Support:** 25%  
-- For airdrops, community events, rewards, incentive programs, marketing, partnerships, ecosystem growth, and grants.
+## Locked Supply: 990,000,000 $FOGMOE
 
-**Initial Circulation:** 15%  
-- Used for initial liquidity.
-
-**Direct Sale:** 5%  
-- For early-stage fundraising.
-  
-**DAO Fund Management:** 5%  
-- For DAO operations and management.
-
-## Token Mechanism
-This mechanism will not be activated until the market cap reaches a certain level.
-- **Minting and Burning:** Decided by DAO vote.  
-- **Minting:** New tokens only under specific conditions, subject to DAO approval.  
-- **Burning:** Token supply can be reduced; also requires DAO approval.
+990 million $FOGMOE tokens are locked to ensure scarcity and support long-term growth. These locked $FOGMOE tokens will be released in the future.
